@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Environment variables and sensitive data
+*.env
+
+# Config and credentials
+# config.ini
+*.cfg
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# IDE / editor settings
+.vscode/
+.idea/
+
+# Selenium browser automation cache
+.selenium/
+
+# Python package files
+*.egg
+*.egg-info/
+dist/
+build/
+*.wheel
+
+# Pipenv, Poetry, or other dependencies
+Pipfile
+Pipfile.lock
+poetry.lock
